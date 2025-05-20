@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /favicon/
+Disallow: /icons/
+
+Sitemap: https://alamal11.github.io/alamal/sitemap.xml
